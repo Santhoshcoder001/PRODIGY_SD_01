@@ -85,7 +85,7 @@ Contributing
 Contack 
 
   For any questions or feedback, please reach out to:
-  
-    Name    : SANTHOSH K.R.    
-    Email   : santhoshkr2564@gmail.com    
-    Linkedin: https://www.linkedin.com/in/santhosh-k-r-5b4462254/   
+
+   Name    : SANTHOSH K.R.    
+   Email   : santhoshkr2564@gmail.com       
+   Linkedin: https://www.linkedin.com/in/santhosh-k-r-5b4462254/   
